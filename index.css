@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+button{
+
+    font-size: 18px;
+    font-family: monospace;
+    color: black;
+    border: 2px solid white;
+    width:80px;
+}
