@@ -1,4 +1,4 @@
-const values = ['ONE','TWO','THREE','FOUR','FIVE','SIX','SEVEN'];
+const values = ['ONE','TWO','THREE','FOUR','FIVE','SIX','SEVEN','EIGHT','NINE'];
 const button = document.getElementById("button_one");
 let index=0;
 
